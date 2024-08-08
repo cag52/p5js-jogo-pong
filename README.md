@@ -1,3 +1,4 @@
+Education by Claudemir Galvani is marked with CC0 1.0 
 # p5js-jogo-pong
 <!DOCTYPE html>
 <html lang="en">
